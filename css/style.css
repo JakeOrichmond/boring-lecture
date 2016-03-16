@@ -1,17 +1,7 @@
-h2.intro {
-  color: crimson;
-  font-family: 'Luckiest Guy',cursive;
-  font-size: 60pt;
-  text-align: center;
-}
 
-p.intro {
-  font-style: italic;
-}
 
-img.intro {
-  text-align: center;
-}
+
+
 
 div.image{
   text-align: center;
@@ -22,6 +12,25 @@ div.image{
   border-width: 100px;
 }
 
-body {
+
+
+div.intro {
+margin: auto;
+font-style: italic;
+
+
+}
+
+span.brick-wall {
+  color: crimson;
+  font-family: 'Luckiest Guy',cursive;
+  font-size: 60pt;
   text-align: center;
+  margin: auto;
+  width: 100%;
+}
+h2 {
+  margin: auto;
+  text-align: center;
+  font-style: normal;
 }
