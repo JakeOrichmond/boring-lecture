@@ -1,0 +1,27 @@
+h2.intro {
+  color: crimson;
+  font-family: 'Luckiest Guy',cursive;
+  font-size: 60pt;
+  text-align: center;
+}
+
+p.intro {
+  font-style: italic;
+}
+
+img.intro {
+  text-align: center;
+}
+
+div.image{
+  text-align: center;
+  border-style: groove;
+  border-color: green;
+  background-color: pink;
+  border-radius: 90px;
+  border-width: 100px;
+}
+
+body {
+  text-align: center;
+}
